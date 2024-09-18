@@ -25,3 +25,107 @@ body {
     text-wrap: balance;
   }
 }
+
+.banner {
+  height: 26rem;
+  position: relative;
+}
+
+.coming-soon {
+  font-size: 2em;
+  color: #7dd3fc;
+}
+
+.company {
+  font-size: 1.2rem;
+}
+
+.date {
+  font-size: .8rem;
+}
+
+.general-res {
+  font-size: 1rem;
+  margin-left: 1rem;
+}
+
+.pfpic {
+  margin: auto;
+  margin-left: 2rem;
+}
+
+.navbar {
+  width: 90%;
+  padding: .4rem;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.navlink-container {
+  width: 80%;
+  justify-content: space-between;
+  margin: auto;
+}
+
+.navbar-container {
+  width: 100%;
+  margin: auto;
+}
+
+.navbar-links {
+  background-color: #7dd3fc;
+  padding: .4rem .7rem;
+  color: #ffffff;
+  border-radius: 15px;
+  margin: auto;
+  font-size: 1.1em;
+}
+
+.navbar-links:hover {
+  background-color: #ffffff;
+  color: #7dd3fc;
+}
+
+.navbar-links:active {
+  background-color: #ffffff;
+  color: #7dd3fc;
+}
+
+.notable-accomplishment {
+  font-size: 1rem;
+  margin-top: .5rem;
+}
+
+.home-intro {
+  background-color: #303030;
+  width: 70%;
+  border-radius: 15px;
+  font-size: 1.1em;
+  box-shadow: 0 4px 8px 0 rgb(125, 211, 252), 0 6px 20px 0 rgb(125, 211, 252);
+  margin-bottom: 2rem;
+}
+
+.page-title {
+  font-size: 2em;
+  width: 100%;
+  text-align: center;
+}
+.paragraph {
+  padding: 1rem;
+  width: 94%;
+  margin: auto;
+}
+
+.resume-title {
+  margin-left: 3rem;
+  color: #7dd3fc;
+}
+
+span {
+  display: block;
+}
+
+ul {
+  list-style-type: circle;
+  margin-left: 1rem;
+}
